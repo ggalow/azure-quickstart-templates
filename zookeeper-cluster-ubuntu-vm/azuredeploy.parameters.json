@@ -6,16 +6,16 @@
       "value": "GEN-UNIQUE"
     },
     "location": {
-      "value": ""
+      "value": "uswest"
     },
     "vmName": {
-      "value": ""
+      "value": "zkvm"
     },
     "vmSize": {
-      "value": ""
+      "value": "Standard_D2"
     },
     "adminUserName": {
-      "value": ""
+      "value": "azurezkuser"
     },
     "adminPassword": {
       "value": "GEN-PASSWORD"
