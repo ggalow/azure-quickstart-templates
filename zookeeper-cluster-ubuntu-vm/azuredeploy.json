@@ -130,7 +130,7 @@
           }
         ]
       }
-    }
+    },
     {
       "type": "Microsoft.Storage/storageAccounts",
       "name": "[variables('newStorageAccountName')]",
