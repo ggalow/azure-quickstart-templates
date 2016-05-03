@@ -2,20 +2,17 @@
   "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
-    "newStorageAccountName": {
-      "value": "GEN-UNIQUE"
-    },
     "location": {
-      "value": "uswest"
+      "value": "West US"
     },
     "vmName": {
-      "value": "zkvm"
+      "value": "zkServer"
     },
     "vmSize": {
       "value": "Standard_D2"
     },
     "adminUserName": {
-      "value": "azurezkuser"
+      "value": "zkadmin"
     },
     "adminPassword": {
       "value": "GEN-PASSWORD"
